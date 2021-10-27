@@ -1,0 +1,21 @@
+insert requests (deliveryMode, description, justification, rejectionReason, status, total, userId)
+VALUES
+('pickup', 'paper', 'so much legislation!', NULL, 'NEW', 15.00, 33),
+('electronic delivery', 'security software', 'no more hacks', NULL, 'NEW', 200.00, 31),
+('delivery', 'secure mobile phone', 'for all my intl trips', NULL, 'NEW', 375.00, 32),
+('pickup', 'new pens', 'signing so many new docs', NULL, 'NEW', 50.00, 39),
+('delivery', 'desk', 'the resolute desk isn''t my style', NULL, 'NEW', 150.00, 37),
+('delivery', 'desk chair', 'to match my new desk', NULL, 'NEW', 75.00, 37),
+('delivery', 'lamp', 'to match the new setup', NULL, 'NEW', 35.00, 37),
+('delivery', 'chips', 'stress eating through this war', NULL, 'NEW', 45.00, 38),
+('pickup', 'bread', 'to go with my big block of cheese', NULL, 'NEW', 22.00, 33),
+('electronic download', 'password protector', 'at war!', NULL, 'NEW', 144.00, 35), 
+('pickup', 'memo paper', 'constant news these days', NULL, 'NEW', 10.00, 35),
+('electronic delivery', 'Microsoft Office', 'cleaning up the last guy''s mess', NULL, 'NEW', 450.00, 34),
+('electronic download', 'Video conference software', 'to talk from east to west', NULL, 'NEW', 99.00, 36),
+('electronic delivery', 'E-Vite Software', 'UN is just getting started', NULL, 'NEW', 100.00, 40),
+('pickup', 'new sit room folders', 'so is the cold war!', NULL, 'NEW', 25.00, 40),
+('delivery', 'Coffee', 'almost out', NULL, 'NEW', 45.00, 36),
+('pickup', 'memo paper', 'so much to say', NULL, 'NEW', 20.00, 34),
+('pickup', 'pens', 'new deal and wartime means no ink', NULL, 'NEW', 50.00, 40),
+('electronic delivery', 'security software', 'the FBI is watching', NULL, 'NEW', 200.00, 41);
